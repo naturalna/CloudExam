@@ -1,0 +1,8 @@
+D:\teleric\Cloud\Izpit\ExamCloud\Db.Model\bin\Debug\Db.Model.dll.config
+D:\teleric\Cloud\Izpit\ExamCloud\Db.Model\bin\Debug\Db.Model.dll
+D:\teleric\Cloud\Izpit\ExamCloud\Db.Model\bin\Debug\Db.Model.pdb
+D:\teleric\Cloud\Izpit\ExamCloud\Db.Model\bin\Debug\EntityFramework.dll
+D:\teleric\Cloud\Izpit\ExamCloud\Db.Model\bin\Debug\EntityFramework.xml
+D:\teleric\Cloud\Izpit\ExamCloud\Db.Model\obj\Debug\Db.Model.csprojResolveAssemblyReference.cache
+D:\teleric\Cloud\Izpit\ExamCloud\Db.Model\obj\Debug\Db.Model.dll
+D:\teleric\Cloud\Izpit\ExamCloud\Db.Model\obj\Debug\Db.Model.pdb
